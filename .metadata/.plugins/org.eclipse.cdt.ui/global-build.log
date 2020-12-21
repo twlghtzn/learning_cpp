@@ -483,3 +483,166 @@ g++ -o "Other Types.exe" "src\\Other Types.o"
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
 g++ -o "Other Types.exe" "src\\Other Types.o" 
+19:27:53 **** Rebuild of configuration Debug for project If ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If.o" "..\\src\\If.cpp" 
+g++ -o If.exe "src\\If.o" 
+19:27:58 **** Incremental Build of configuration Debug for project If ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If.o" "..\\src\\If.cpp" 
+g++ -o If.exe "src\\If.o" 
+19:33:20 **** Incremental Build of configuration Debug for project If ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\If.o" "..\\src\\If.cpp" 
+g++ -o If.exe "src\\If.o" 
+Info: Nothing to build for If
+19:40:07 **** Rebuild of configuration Debug for project if-else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if-else.o" "..\\src\\if-else.cpp" 
+g++ -o if-else.exe "src\\if-else.o" 
+19:40:12 **** Incremental Build of configuration Debug for project if-else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if-else.o" "..\\src\\if-else.cpp" 
+g++ -o if-else.exe "src\\if-else.o" 
+19:42:14 **** Incremental Build of configuration Debug for project if-else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if-else.o" "..\\src\\if-else.cpp" 
+g++ -o if-else.exe "src\\if-else.o" 
+19:45:06 **** Incremental Build of configuration Debug for project if-else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if-else.o" "..\\src\\if-else.cpp" 
+g++ -o if-else.exe "src\\if-else.o" 
+Info: Nothing to build for if-else
+19:46:21 **** Incremental Build of configuration Debug for project if-else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if-else.o" "..\\src\\if-else.cpp" 
+g++ -o if-else.exe "src\\if-else.o" 
+Info: Nothing to build for if-else
+19:49:59 **** Incremental Build of configuration Debug for project if-else ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if-else.o" "..\\src\\if-else.cpp" 
+g++ -o if-else.exe "src\\if-else.o" 
+19:58:43 **** Rebuild of configuration Debug for project if-else-if ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if-else.o" "..\\src\\if-else.cpp" 
+g++ -o if-else-if.exe "src\\if-else.o" 
+Info: Nothing to build for if-else-if
+Info: Nothing to build for if-else-if
+20:00:13 **** Incremental Build of configuration Debug for project if-else-if ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if-else-if.o" "..\\src\\if-else-if.cpp" 
+g++ -o if-else-if.exe "src\\if-else-if.o" 
+Info: Nothing to build for if-else-if
+Info: Nothing to build for if-else-if
+20:03:08 **** Rebuild of configuration Debug for project if-else-if ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if-else-if.o" "..\\src\\if-else-if.cpp" 
+g++ -o if-else-if.exe "src\\if-else-if.o" 
+20:03:31 **** Incremental Build of configuration Debug for project if-else-if ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if-else-if.o" "..\\src\\if-else-if.cpp" 
+g++ -o if-else-if.exe "src\\if-else-if.o" 
+Info: Nothing to build for if-else-if
+Info: Nothing to build for if-else-if
+Info: Nothing to build for if-else-if
+Info: Nothing to build for if-else-if
+Info: Nothing to build for Floating Point Types
+Info: Nothing to build for if-else-if
+20:11:15 **** Rebuild of configuration Debug for project Comparing Floats ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Comparing Floats.o" "..\\src\\Comparing Floats.cpp" 
+g++ -o "Comparing Floats.exe" "src\\Comparing Floats.o" 
+20:11:22 **** Incremental Build of configuration Debug for project Comparing Floats ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Comparing Floats.o" "..\\src\\Comparing Floats.cpp" 
+g++ -o "Comparing Floats.exe" "src\\Comparing Floats.o" 
+20:11:48 **** Incremental Build of configuration Debug for project Comparing Floats ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Comparing Floats.o" "..\\src\\Comparing Floats.cpp" 
+g++ -o "Comparing Floats.exe" "src\\Comparing Floats.o" 
+20:13:17 **** Incremental Build of configuration Debug for project Comparing Floats ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Comparing Floats.o" "..\\src\\Comparing Floats.cpp" 
+g++ -o "Comparing Floats.exe" "src\\Comparing Floats.o" 
+20:15:21 **** Incremental Build of configuration Debug for project Comparing Floats ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Comparing Floats.o" "..\\src\\Comparing Floats.cpp" 
+g++ -o "Comparing Floats.exe" "src\\Comparing Floats.o" 
+20:15:42 **** Incremental Build of configuration Debug for project Comparing Floats ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Comparing Floats.o" "..\\src\\Comparing Floats.cpp" 
+g++ -o "Comparing Floats.exe" "src\\Comparing Floats.o" 
+20:16:19 **** Incremental Build of configuration Debug for project Comparing Floats ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Comparing Floats.o" "..\\src\\Comparing Floats.cpp" 
+g++ -o "Comparing Floats.exe" "src\\Comparing Floats.o" 
+20:16:55 **** Incremental Build of configuration Debug for project Comparing Floats ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Comparing Floats.o" "..\\src\\Comparing Floats.cpp" 
+..\src\Comparing Floats.cpp: In function 'int main()':
+..\src\Comparing Floats.cpp:18:2: error: expected ',' or ';' before 'if'
+   18 |  if (value1 == value2) {
+      |  ^~
+..\src\Comparing Floats.cpp:20:4: error: 'else' without a previous 'if'
+   20 |  } else {
+      |    ^~~~
+..\src\Comparing Floats.cpp:16:8: warning: unused variable 'value2' [-Wunused-variable]
+   16 |  float value2 = 1.1
+      |        ^~~~~~
+20:17:11 **** Incremental Build of configuration Debug for project Comparing Floats ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Comparing Floats.o" "..\\src\\Comparing Floats.cpp" 
+g++ -o "Comparing Floats.exe" "src\\Comparing Floats.o" 
+20:17:47 **** Incremental Build of configuration Debug for project Comparing Floats ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Comparing Floats.o" "..\\src\\Comparing Floats.cpp" 
+g++ -o "Comparing Floats.exe" "src\\Comparing Floats.o" 
+20:18:59 **** Rebuild of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+20:21:47 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:22:6: warning: unused variable 'value2' [-Wunused-variable]
+   22 |  int value2 = 4;
+      |      ^~~~~~
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+20:22:14 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:22:6: warning: unused variable 'value2' [-Wunused-variable]
+   22 |  int value2 = 4;
+      |      ^~~~~~
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+20:23:32 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+..\src\Complex Conditions.cpp: In function 'int main()':
+..\src\Complex Conditions.cpp:24:6: warning: unused variable 'value2' [-Wunused-variable]
+   24 |  int value2 = 4;
+      |      ^~~~~~
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+20:41:54 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+20:43:21 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+20:43:40 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+20:43:58 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+Info: Nothing to build for Complex Conditions
+20:58:14 **** Incremental Build of configuration Debug for project Complex Conditions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
+g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
