@@ -109,3 +109,377 @@ g++ -o Strings.exe "src\\Strings.o"
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Strings.o" "..\\src\\Strings.cpp" 
 g++ -o Strings.exe "src\\Strings.o" 
+14:01:27 **** Rebuild of configuration Debug for project Input ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Input.o" "..\\src\\Input.cpp" 
+g++ -o Input.exe "src\\Input.o" 
+14:01:39 **** Incremental Build of configuration Debug for project Input ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Input.o" "..\\src\\Input.cpp" 
+g++ -o Input.exe "src\\Input.o" 
+14:04:38 **** Incremental Build of configuration Debug for project Input ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Input.o" "..\\src\\Input.cpp" 
+g++ -o Input.exe "src\\Input.o" 
+Info: Nothing to build for Input
+15:51:04 **** Rebuild of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+15:51:11 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+15:51:28 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:14:14: warning: overflow in conversion from 'long long int' to 'int' changes value from '746384635291536214' to '207391574' [-Woverflow]
+   14 |  int value = 746384635291536214;
+      |              ^~~~~~~~~~~~~~~~~~
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+15:52:15 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+15:54:10 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+15:55:12 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+15:55:39 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+15:59:54 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+16:01:40 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+16:03:15 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+16:03:48 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+16:04:11 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+16:04:43 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+16:06:46 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+16:07:04 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+16:07:36 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:19:10: error: 'INT_MAX' was not declared in this scope
+   19 |  cout << INT_MAX << endl;
+      |          ^~~~~~~
+..\src\Integer Types.cpp:11:1: note: 'INT_MAX' is defined in header '<climits>'; did you forget to '#include <climits>'?
+   10 | #include <limits>
+  +++ |+#include <climits>
+   11 | 
+16:13:10 **** Rebuild of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:13:18 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:15:05 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:18:57 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:19:35 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:22:20: warning: overflow in conversion from 'long long int' to 'long int' changes value from '23526537483726' to '-1293363762' [-Woverflow]
+   22 |  long int lValue = 23526537483726;
+      |                    ^~~~~~~~~~~~~~
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:20:11 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:20:47 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:22:20: warning: overflow in conversion from 'long long int' to 'long int' changes value from '2345325345345' to '273201729' [-Woverflow]
+   22 |  long int lValue = 2345325345345;
+      |                    ^~~~~~~~~~~~~
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:21:19 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:23:20: warning: overflow in conversion from 'long long int' to 'long int' changes value from '2345325345345' to '273201729' [-Woverflow]
+   23 |  long int lValue = 2345325345345;
+      |                    ^~~~~~~~~~~~~
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:22:27 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:23:20: warning: overflow in conversion from 'long long int' to 'long int' changes value from '2345325345345' to '273201729' [-Woverflow]
+   23 |  long int lValue = 2345325345345;
+      |                    ^~~~~~~~~~~~~
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:25:48 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:23:15: warning: overflow in conversion from 'long long int' to 'int' changes value from '2345325345345' to '273201729' [-Woverflow]
+   23 |  int lValue = 2345325345345;
+      |               ^~~~~~~~~~~~~
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:26:16 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:22:20: warning: overflow in conversion from 'long long int' to 'long int' changes value from '2345325345345' to '273201729' [-Woverflow]
+   22 |  long int lValue = 2345325345345;
+      |                    ^~~~~~~~~~~~~
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:31:38 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:32:58 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:34:04 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:35:09 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:36:23 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:31:15: warning: unused variable 'uValue' [-Wunused-variable]
+   31 |  unsigned int uValue = 2342343;
+      |               ^~~~~~
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:36:52 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:37:15 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:37:35 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+..\src\Integer Types.cpp: In function 'int main()':
+..\src\Integer Types.cpp:22:16: warning: overflow in conversion from 'long long int' to 'long int' changes value from '2345325345345' to '273201729' [-Woverflow]
+   22 |  long lValue = 2345325345345;
+      |                ^~~~~~~~~~~~~
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+16:37:47 **** Incremental Build of configuration Debug for project Integer Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Integer Types.o" "..\\src\\Integer Types.cpp" 
+g++ -o "Integer Types.exe" "src\\Integer Types.o" 
+17:46:34 **** Rebuild of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:46:40 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:47:21 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:48:49 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:49:23 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:50:12 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:50:48 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:53:18 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:54:41 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:55:31 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:57:13 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:59:10 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+17:59:42 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+18:01:33 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+18:01:56 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+18:04:33 **** Incremental Build of configuration Debug for project Floating Point Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Floating Point Types.o" "..\\src\\Floating Point Types.cpp" 
+g++ -o "Floating Point Types.exe" "src\\Floating Point Types.o" 
+18:08:44 **** Rebuild of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
+18:08:49 **** Incremental Build of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
+18:10:27 **** Incremental Build of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
+18:10:51 **** Incremental Build of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
+18:14:17 **** Incremental Build of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
+18:14:33 **** Incremental Build of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
+18:16:10 **** Incremental Build of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
+18:16:58 **** Incremental Build of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
+18:17:16 **** Incremental Build of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
+18:17:56 **** Incremental Build of configuration Debug for project Other Types ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Other Types.o" "..\\src\\Other Types.cpp" 
+g++ -o "Other Types.exe" "src\\Other Types.o" 
