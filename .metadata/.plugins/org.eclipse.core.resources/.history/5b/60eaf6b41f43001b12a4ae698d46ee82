@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+	cout << "Starting program..." << flush;
+
+	cout << "This is some text." << endl;
+
+
+	cout << "Hello hello" << endl;
+
+	return 0;
+}

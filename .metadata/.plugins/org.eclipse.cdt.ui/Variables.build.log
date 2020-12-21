@@ -1,0 +1,7 @@
+12:36:30 **** Incremental Build of configuration Debug for project Variables ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Variables.o" "..\\src\\Variables.cpp" 
+g++ -o Variables.exe "src\\Variables.o" 
+
+12:36:30 Build Finished. 0 errors, 0 warnings. (took 673ms)
+

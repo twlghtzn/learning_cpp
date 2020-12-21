@@ -1,0 +1,111 @@
+00:16:07 **** Incremental Build of configuration Release for project Hello World ****
+Info: Internal Builder is used for build
+g++ -O3 -Wall -c -fmessage-length=0 -o "src\\Hello World.o" "..\\src\\Hello World.cpp" 
+g++ -o "Hello World.exe" "src\\Hello World.o" 
+Info: Nothing to build for Hello World
+00:51:52 **** Rebuild of configuration Debug for project Outputting Text ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Outputting Text.o" "..\\src\\Outputting Text.cpp" 
+g++ -o "Outputting Text.exe" "src\\Outputting Text.o" 
+Info: Nothing to build for Outputting Text
+00:56:01 **** Incremental Build of configuration Debug for project Outputting Text ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Outputting Text.o" "..\\src\\Outputting Text.cpp" 
+g++ -o "Outputting Text.exe" "src\\Outputting Text.o" 
+00:58:02 **** Incremental Build of configuration Debug for project Outputting Text ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Outputting Text.o" "..\\src\\Outputting Text.cpp" 
+g++ -o "Outputting Text.exe" "src\\Outputting Text.o" 
+00:59:39 **** Incremental Build of configuration Debug for project Outputting Text ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Outputting Text.o" "..\\src\\Outputting Text.cpp" 
+g++ -o "Outputting Text.exe" "src\\Outputting Text.o" 
+01:01:42 **** Incremental Build of configuration Debug for project Outputting Text ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Outputting Text.o" "..\\src\\Outputting Text.cpp" 
+g++ -o "Outputting Text.exe" "src\\Outputting Text.o" 
+01:02:23 **** Incremental Build of configuration Debug for project Outputting Text ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Outputting Text.o" "..\\src\\Outputting Text.cpp" 
+g++ -o "Outputting Text.exe" "src\\Outputting Text.o" 
+01:03:04 **** Incremental Build of configuration Debug for project Outputting Text ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Outputting Text.o" "..\\src\\Outputting Text.cpp" 
+g++ -o "Outputting Text.exe" "src\\Outputting Text.o" 
+Info: Nothing to build for Outputting Text
+01:03:33 **** Incremental Build of configuration Debug for project Outputting Text ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Outputting Text.o" "..\\src\\Outputting Text.cpp" 
+g++ -o "Outputting Text.exe" "src\\Outputting Text.o" 
+Info: Nothing to build for Hello World
+11:38:57 **** Incremental Build of configuration Debug for project Outputting Text ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Outputting Text.o" "..\\src\\Outputting Text.cpp" 
+g++ -o "Outputting Text.exe" "src\\Outputting Text.o" 
+12:23:59 **** Rebuild of configuration Debug for project Variables ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Variables.o" "..\\src\\Variables.cpp" 
+g++ -o Variables.exe "src\\Variables.o" 
+12:24:09 **** Incremental Build of configuration Debug for project Variables ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Variables.o" "..\\src\\Variables.cpp" 
+g++ -o Variables.exe "src\\Variables.o" 
+12:29:19 **** Incremental Build of configuration Debug for project Variables ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Variables.o" "..\\src\\Variables.cpp" 
+g++ -o Variables.exe "src\\Variables.o" 
+12:31:07 **** Incremental Build of configuration Debug for project Variables ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Variables.o" "..\\src\\Variables.cpp" 
+g++ -o Variables.exe "src\\Variables.o" 
+12:31:57 **** Incremental Build of configuration Debug for project Variables ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Variables.o" "..\\src\\Variables.cpp" 
+g++ -o Variables.exe "src\\Variables.o" 
+12:33:53 **** Incremental Build of configuration Debug for project Variables ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Variables.o" "..\\src\\Variables.cpp" 
+g++ -o Variables.exe "src\\Variables.o" 
+12:34:29 **** Incremental Build of configuration Debug for project Variables ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Variables.o" "..\\src\\Variables.cpp" 
+g++ -o Variables.exe "src\\Variables.o" 
+12:36:30 **** Incremental Build of configuration Debug for project Variables ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Variables.o" "..\\src\\Variables.cpp" 
+g++ -o Variables.exe "src\\Variables.o" 
+12:51:23 **** Rebuild of configuration Debug for project Strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Strings.o" "..\\src\\Strings.cpp" 
+g++ -o Strings.exe "src\\Strings.o" 
+12:51:30 **** Incremental Build of configuration Debug for project Strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Strings.o" "..\\src\\Strings.cpp" 
+g++ -o Strings.exe "src\\Strings.o" 
+12:52:52 **** Incremental Build of configuration Debug for project Strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Strings.o" "..\\src\\Strings.cpp" 
+g++ -o Strings.exe "src\\Strings.o" 
+13:07:07 **** Incremental Build of configuration Debug for project Strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Strings.o" "..\\src\\Strings.cpp" 
+g++ -o Strings.exe "src\\Strings.o" 
+13:08:10 **** Incremental Build of configuration Debug for project Strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Strings.o" "..\\src\\Strings.cpp" 
+..\src\Strings.cpp: In function 'int main()':
+..\src\Strings.cpp:17:2: error: expected ',' or ';' before 'cout'
+   17 |  cout << text1 << text2 << endl;
+      |  ^~~~
+13:08:35 **** Incremental Build of configuration Debug for project Strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Strings.o" "..\\src\\Strings.cpp" 
+g++ -o Strings.exe "src\\Strings.o" 
+13:10:17 **** Incremental Build of configuration Debug for project Strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Strings.o" "..\\src\\Strings.cpp" 
+g++ -o Strings.exe "src\\Strings.o" 
+13:10:29 **** Incremental Build of configuration Debug for project Strings ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Strings.o" "..\\src\\Strings.cpp" 
+g++ -o Strings.exe "src\\Strings.o" 
