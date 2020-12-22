@@ -646,3 +646,220 @@ Info: Nothing to build for Complex Conditions
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Complex Conditions.o" "..\\src\\Complex Conditions.cpp" 
 g++ -o "Complex Conditions.exe" "src\\Complex Conditions.o" 
+Info: Nothing to build for Complex Conditions
+21:38:40 **** Rebuild of configuration Debug for project while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\while.o" "..\\src\\while.cpp" 
+g++ -o while.exe "src\\while.o" 
+21:38:47 **** Incremental Build of configuration Debug for project while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\while.o" "..\\src\\while.cpp" 
+g++ -o while.exe "src\\while.o" 
+21:40:19 **** Incremental Build of configuration Debug for project while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\while.o" "..\\src\\while.cpp" 
+g++ -o while.exe "src\\while.o" 
+21:40:38 **** Incremental Build of configuration Debug for project while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\while.o" "..\\src\\while.cpp" 
+g++ -o while.exe "src\\while.o" 
+21:40:48 **** Incremental Build of configuration Debug for project while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\while.o" "..\\src\\while.cpp" 
+g++ -o while.exe "src\\while.o" 
+21:42:03 **** Incremental Build of configuration Debug for project while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\while.o" "..\\src\\while.cpp" 
+g++ -o while.exe "src\\while.o" 
+21:42:44 **** Incremental Build of configuration Debug for project while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\while.o" "..\\src\\while.cpp" 
+g++ -o while.exe "src\\while.o" 
+Info: Nothing to build for while
+21:48:19 **** Rebuild of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\do-while.o" "..\\src\\do-while.cpp" 
+g++ -o do-while.exe "src\\do-while.o" 
+21:52:11 **** Incremental Build of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\do-while.o" "..\\src\\do-while.cpp" 
+g++ -o do-while.exe "src\\do-while.o" 
+21:52:35 **** Incremental Build of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\do-while.o" "..\\src\\do-while.cpp" 
+g++ -o do-while.exe "src\\do-while.o" 
+Info: Nothing to build for do-while
+21:55:17 **** Incremental Build of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\do-while.o" "..\\src\\do-while.cpp" 
+g++ -o do-while.exe "src\\do-while.o" 
+21:58:06 **** Incremental Build of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\do-while.o" "..\\src\\do-while.cpp" 
+g++ -o do-while.exe "src\\do-while.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file do-while.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+21:59:05 **** Incremental Build of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\do-while.o" "..\\src\\do-while.cpp" 
+g++ -o do-while.exe "src\\do-while.o" 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file do-while.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+21:59:48 **** Incremental Build of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -o do-while.exe "src\\do-while.o" 
+22:01:37 **** Incremental Build of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\do-while.o" "..\\src\\do-while.cpp" 
+g++ -o do-while.exe "src\\do-while.o" 
+22:02:04 **** Incremental Build of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\do-while.o" "..\\src\\do-while.cpp" 
+g++ -o do-while.exe "src\\do-while.o" 
+22:02:51 **** Incremental Build of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\do-while.o" "..\\src\\do-while.cpp" 
+g++ -o do-while.exe "src\\do-while.o" 
+22:06:17 **** Incremental Build of configuration Debug for project do-while ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\do-while.o" "..\\src\\do-while.cpp" 
+g++ -o do-while.exe "src\\do-while.o" 
+21:14:19 **** Rebuild of configuration Debug for project for ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\for.o" "..\\src\\for.cpp" 
+g++ -o for.exe "src\\for.o" 
+21:14:24 **** Incremental Build of configuration Debug for project for ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\for.o" "..\\src\\for.cpp" 
+g++ -o for.exe "src\\for.o" 
+21:16:31 **** Incremental Build of configuration Debug for project for ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\for.o" "..\\src\\for.cpp" 
+g++ -o for.exe "src\\for.o" 
+21:21:37 **** Rebuild of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+21:21:42 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+21:23:32 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+21:24:05 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+21:26:32 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+21:31:15 **** Incremental Build of configuration Debug for project break-continue ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\break-continue.o" "..\\src\\break-continue.cpp" 
+g++ -o break-continue.exe "src\\break-continue.o" 
+21:38:10 **** Rebuild of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:38:15 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:39:05 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:39:47 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+..\src\Arrays.cpp: In function 'int main()':
+..\src\Arrays.cpp:21:18: warning: 'values[1]' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   21 |  cout << values[1] << endl;
+      |                  ^
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:46:02 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+..\src\Arrays.cpp: In function 'int main()':
+..\src\Arrays.cpp:23:18: warning: 'values[1]' may be used uninitialized in this function [-Wmaybe-uninitialized]
+   23 |  cout << values[1] << endl;
+      |                  ^
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:50:03 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+Info: Nothing to build for Arrays
+21:51:03 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+..\src\Arrays.cpp: In function 'int main()':
+..\src\Arrays.cpp:30:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   30 |  for (int i = 0; i < sizeof(numbers); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:51:56 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:52:26 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:54:58 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:56:08 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:57:30 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:59:04 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+21:59:21 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+22:02:30 **** Incremental Build of configuration Debug for project Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays.o" "..\\src\\Arrays.cpp" 
+g++ -o Arrays.exe "src\\Arrays.o" 
+22:04:20 **** Rebuild of configuration Debug for project arrays-exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrays-exercise.o" "..\\src\\arrays-exercise.cpp" 
+g++ -o arrays-exercise.exe "src\\arrays-exercise.o" 
+22:05:05 **** Incremental Build of configuration Debug for project arrays-exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrays-exercise.o" "..\\src\\arrays-exercise.cpp" 
+..\src\arrays-exercise.cpp: In function 'int main()':
+..\src\arrays-exercise.cpp:14:6: error: storage size of 'timesTable' isn't known
+   14 |  int timesTable[];
+      |      ^~~~~~~~~~
+22:08:36 **** Incremental Build of configuration Debug for project arrays-exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrays-exercise.o" "..\\src\\arrays-exercise.cpp" 
+g++ -o arrays-exercise.exe "src\\arrays-exercise.o" 
+22:14:09 **** Rebuild of configuration Debug for project multidimensional_arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\multidimensional_arrays.o" "..\\src\\multidimensional_arrays.cpp" 
+g++ -o multidimensional_arrays.exe "src\\multidimensional_arrays.o" 
+Info: Nothing to build for arrays-exercise
+Info: Nothing to build for multidimensional_arrays
+22:15:59 **** Incremental Build of configuration Debug for project multidimensional_arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\multidimensional_arrays.o" "..\\src\\multidimensional_arrays.cpp" 
+g++ -o multidimensional_arrays.exe "src\\multidimensional_arrays.o" 
+Info: Nothing to build for multidimensional_arrays
+22:17:40 **** Incremental Build of configuration Debug for project multidimensional_arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\multidimensional_arrays.o" "..\\src\\multidimensional_arrays.cpp" 
+g++ -o multidimensional_arrays.exe "src\\multidimensional_arrays.o" 
