@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
 
-	string animals[2][3] = {
+	string animals[][3] = { // gotta have same length
 			{"fox", "dog", "cat"},
 			{"mouse", "squirrel", "parrot"}
 	};

@@ -863,3 +863,107 @@ Info: Nothing to build for multidimensional_arrays
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\multidimensional_arrays.o" "..\\src\\multidimensional_arrays.cpp" 
 g++ -o multidimensional_arrays.exe "src\\multidimensional_arrays.o" 
+22:58:42 **** Incremental Build of configuration Debug for project multidimensional_arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\multidimensional_arrays.o" "..\\src\\multidimensional_arrays.cpp" 
+g++ -o multidimensional_arrays.exe "src\\multidimensional_arrays.o" 
+22:59:37 **** Rebuild of configuration Debug for project sizeof ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sizeof.o" "..\\src\\sizeof.cpp" 
+g++ -o sizeof.exe "src\\sizeof.o" 
+23:00:31 **** Incremental Build of configuration Debug for project sizeof ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sizeof.o" "..\\src\\sizeof.cpp" 
+g++ -o sizeof.exe "src\\sizeof.o" 
+23:01:04 **** Incremental Build of configuration Debug for project sizeof ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sizeof.o" "..\\src\\sizeof.cpp" 
+g++ -o sizeof.exe "src\\sizeof.o" 
+23:02:57 **** Incremental Build of configuration Debug for project sizeof ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sizeof.o" "..\\src\\sizeof.cpp" 
+g++ -o sizeof.exe "src\\sizeof.o" 
+23:03:31 **** Incremental Build of configuration Debug for project sizeof ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sizeof.o" "..\\src\\sizeof.cpp" 
+..\src\sizeof.cpp: In function 'int main()':
+..\src\sizeof.cpp:21:17: error: 'values' was not declared in this scope; did you mean 'value'?
+   21 |  cout << sizeof(values) << endl;
+      |                 ^~~~~~
+      |                 value
+23:04:12 **** Incremental Build of configuration Debug for project sizeof ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sizeof.o" "..\\src\\sizeof.cpp" 
+g++ -o sizeof.exe "src\\sizeof.o" 
+23:05:59 **** Incremental Build of configuration Debug for project sizeof ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sizeof.o" "..\\src\\sizeof.cpp" 
+g++ -o sizeof.exe "src\\sizeof.o" 
+23:07:37 **** Incremental Build of configuration Debug for project sizeof ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sizeof.o" "..\\src\\sizeof.cpp" 
+g++ -o sizeof.exe "src\\sizeof.o" 
+23:09:59 **** Incremental Build of configuration Debug for project sizeof ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sizeof.o" "..\\src\\sizeof.cpp" 
+g++ -o sizeof.exe "src\\sizeof.o" 
+23:13:55 **** Rebuild of configuration Debug for project Sizeof MultiD Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sizeof MultiD Arrays.o" "..\\src\\Sizeof MultiD Arrays.cpp" 
+g++ -o "Sizeof MultiD Arrays.exe" "src\\Sizeof MultiD Arrays.o" 
+23:14:01 **** Incremental Build of configuration Debug for project Sizeof MultiD Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sizeof MultiD Arrays.o" "..\\src\\Sizeof MultiD Arrays.cpp" 
+g++ -o "Sizeof MultiD Arrays.exe" "src\\Sizeof MultiD Arrays.o" 
+23:15:02 **** Incremental Build of configuration Debug for project Sizeof MultiD Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sizeof MultiD Arrays.o" "..\\src\\Sizeof MultiD Arrays.cpp" 
+g++ -o "Sizeof MultiD Arrays.exe" "src\\Sizeof MultiD Arrays.o" 
+23:15:46 **** Incremental Build of configuration Debug for project Sizeof MultiD Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sizeof MultiD Arrays.o" "..\\src\\Sizeof MultiD Arrays.cpp" 
+g++ -o "Sizeof MultiD Arrays.exe" "src\\Sizeof MultiD Arrays.o" 
+23:24:53 **** Incremental Build of configuration Debug for project Sizeof MultiD Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sizeof MultiD Arrays.o" "..\\src\\Sizeof MultiD Arrays.cpp" 
+g++ -o "Sizeof MultiD Arrays.exe" "src\\Sizeof MultiD Arrays.o" 
+23:28:33 **** Incremental Build of configuration Debug for project Sizeof MultiD Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sizeof MultiD Arrays.o" "..\\src\\Sizeof MultiD Arrays.cpp" 
+g++ -o "Sizeof MultiD Arrays.exe" "src\\Sizeof MultiD Arrays.o" 
+23:29:24 **** Incremental Build of configuration Debug for project Sizeof MultiD Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sizeof MultiD Arrays.o" "..\\src\\Sizeof MultiD Arrays.cpp" 
+g++ -o "Sizeof MultiD Arrays.exe" "src\\Sizeof MultiD Arrays.o" 
+23:29:39 **** Incremental Build of configuration Debug for project Sizeof MultiD Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sizeof MultiD Arrays.o" "..\\src\\Sizeof MultiD Arrays.cpp" 
+g++ -o "Sizeof MultiD Arrays.exe" "src\\Sizeof MultiD Arrays.o" 
+23:31:49 **** Rebuild of configuration Debug for project switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch.o" "..\\src\\switch.cpp" 
+g++ -o switch.exe "src\\switch.o" 
+23:35:27 **** Incremental Build of configuration Debug for project switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch.o" "..\\src\\switch.cpp" 
+g++ -o switch.exe "src\\switch.o" 
+23:35:34 **** Incremental Build of configuration Debug for project switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch.o" "..\\src\\switch.cpp" 
+g++ -o switch.exe "src\\switch.o" 
+23:35:46 **** Incremental Build of configuration Debug for project switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch.o" "..\\src\\switch.cpp" 
+g++ -o switch.exe "src\\switch.o" 
+23:39:54 **** Incremental Build of configuration Debug for project switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch.o" "..\\src\\switch.cpp" 
+g++ -o switch.exe "src\\switch.o" 
+23:40:02 **** Incremental Build of configuration Debug for project switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch.o" "..\\src\\switch.cpp" 
+g++ -o switch.exe "src\\switch.o" 
+23:41:11 **** Incremental Build of configuration Debug for project switch ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch.o" "..\\src\\switch.cpp" 
+g++ -o switch.exe "src\\switch.o" 
