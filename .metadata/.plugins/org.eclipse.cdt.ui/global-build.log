@@ -1072,3 +1072,1361 @@ g++ -o prototypesAndIncludes.exe "src\\prototypesAndIncludes.o"
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prototypesAndIncludes.o" "..\\src\\prototypesAndIncludes.cpp" 
 g++ -o prototypesAndIncludes.exe "src\\prototypesAndIncludes.o" 
+Info: Nothing to build for prototypesAndIncludes
+16:13:08 **** Rebuild of configuration Debug for project classes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\classes.o" "..\\src\\classes.cpp" 
+g++ -o classes.exe "src\\classes.o" 
+16:13:15 **** Incremental Build of configuration Debug for project classes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\classes.o" "..\\src\\classes.cpp" 
+g++ -o classes.exe "src\\classes.o" 
+16:19:21 **** Incremental Build of configuration Debug for project classes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\classes.o" "..\\src\\classes.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o classes.exe "src\\Cat.o" "src\\classes.o" 
+16:20:50 **** Incremental Build of configuration Debug for project classes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\classes.o" "..\\src\\classes.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o classes.exe "src\\Cat.o" "src\\classes.o" 
+16:22:22 **** Incremental Build of configuration Debug for project classes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o classes.exe "src\\Cat.o" "src\\classes.o" 
+16:23:01 **** Incremental Build of configuration Debug for project classes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\classes.o" "..\\src\\classes.cpp" 
+g++ -o classes.exe "src\\Cat.o" "src\\classes.o" 
+16:25:28 **** Incremental Build of configuration Debug for project classes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\classes.o" "..\\src\\classes.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o classes.exe "src\\Cat.o" "src\\classes.o" 
+16:28:21 **** Incremental Build of configuration Debug for project classes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\classes.o" "..\\src\\classes.cpp" 
+..\src\classes.cpp: In function 'int main()':
+..\src\classes.cpp:16:2: error: 'speak' was not declared in this scope
+   16 |  speak();
+      |  ^~~~~
+..\src\classes.cpp:17:2: error: 'jump' was not declared in this scope
+   17 |  jump();
+      |  ^~~~
+16:31:26 **** Incremental Build of configuration Debug for project classes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\classes.o" "..\\src\\classes.cpp" 
+g++ -o classes.exe "src\\Cat.o" "src\\classes.o" 
+16:32:19 **** Incremental Build of configuration Debug for project classes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\classes.o" "..\\src\\classes.cpp" 
+g++ -o classes.exe "src\\Cat.o" "src\\classes.o" 
+17:27:29 **** Rebuild of configuration Debug for project dataMemebers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dataMemebers.o" "..\\src\\dataMemebers.cpp" 
+g++ -o dataMemebers.exe "src\\dataMemebers.o" 
+Info: Nothing to build for dataMemebers
+17:34:28 **** Incremental Build of configuration Debug for project dataMemebers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o dataMemebers.exe "src\\Cat.o" "src\\dataMemebers.o" 
+17:34:34 **** Incremental Build of configuration Debug for project dataMemebers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dataMemebers.o" "..\\src\\dataMemebers.cpp" 
+g++ -o dataMemebers.exe "src\\Cat.o" "src\\dataMemebers.o" 
+17:38:51 **** Incremental Build of configuration Debug for project dataMemebers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dataMemebers.o" "..\\src\\dataMemebers.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o dataMemebers.exe "src\\Cat.o" "src\\dataMemebers.o" 
+17:39:02 **** Incremental Build of configuration Debug for project dataMemebers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dataMemebers.o" "..\\src\\dataMemebers.cpp" 
+g++ -o dataMemebers.exe "src\\Cat.o" "src\\dataMemebers.o" 
+17:40:11 **** Incremental Build of configuration Debug for project dataMemebers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dataMemebers.o" "..\\src\\dataMemebers.cpp" 
+..\src\dataMemebers.cpp: In function 'int main()':
+..\src\dataMemebers.cpp:21:6: error: 'class Cat' has no member named 'hapy'; did you mean 'happy'?
+   21 |  bob.hapy = true;
+      |      ^~~~
+      |      happy
+17:40:23 **** Incremental Build of configuration Debug for project dataMemebers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dataMemebers.o" "..\\src\\dataMemebers.cpp" 
+g++ -o dataMemebers.exe "src\\Cat.o" "src\\dataMemebers.o" 
+17:45:13 **** Incremental Build of configuration Debug for project dataMemebers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dataMemebers.o" "..\\src\\dataMemebers.cpp" 
+g++ -o dataMemebers.exe "src\\Cat.o" "src\\dataMemebers.o" 
+18:09:53 **** Incremental Build of configuration Debug for project dataMemebers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\dataMemebers.o" "..\\src\\dataMemebers.cpp" 
+g++ -o dataMemebers.exe "src\\Cat.o" "src\\dataMemebers.o" 
+18:10:36 **** Rebuild of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructors and Destructors.o" "..\\src\\Constructors and Destructors.cpp" 
+g++ -o "Constructors and Destructors.exe" "src\\Constructors and Destructors.o" 
+Info: Nothing to build for Constructors and Destructors
+18:15:03 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructors and Destructors.o" "..\\src\\Constructors and Destructors.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+..\src\Cat.cpp: In member function 'void Cat::speak()':
+..\src\Cat.cpp:12:3: error: 'cout' was not declared in this scope
+   12 |   cout << "Meouw!" << endl;
+      |   ^~~~
+..\src\Cat.cpp:12:23: error: 'endl' was not declared in this scope
+   12 |   cout << "Meouw!" << endl;
+      |                       ^~~~
+..\src\Cat.cpp:14:3: error: 'cout' was not declared in this scope
+   14 |   cout << "Sssss!" << endl;
+      |   ^~~~
+..\src\Cat.cpp:14:23: error: 'endl' was not declared in this scope
+   14 |   cout << "Sssss!" << endl;
+      |                       ^~~~
+18:15:58 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+..\src\Cat.cpp: In member function 'void Cat::speak()':
+..\src\Cat.cpp:13:3: error: 'cout' was not declared in this scope; did you mean 'std::cout'?
+   13 |   cout << "Meouw!" << endl;
+      |   ^~~~
+      |   std::cout
+In file included from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:61:18: note: 'std::cout' declared here
+   61 |   extern ostream cout;  /// Linked to standard output
+      |                  ^~~~
+..\src\Cat.cpp:13:23: error: 'endl' was not declared in this scope; did you mean 'std::endl'?
+   13 |   cout << "Meouw!" << endl;
+      |                       ^~~~
+      |                       std::endl
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:599:5: note: 'std::endl' declared here
+  599 |     endl(basic_ostream<_CharT, _Traits>& __os)
+      |     ^~~~
+..\src\Cat.cpp:15:3: error: 'cout' was not declared in this scope; did you mean 'std::cout'?
+   15 |   cout << "Sssss!" << endl;
+      |   ^~~~
+      |   std::cout
+In file included from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:61:18: note: 'std::cout' declared here
+   61 |   extern ostream cout;  /// Linked to standard output
+      |                  ^~~~
+..\src\Cat.cpp:15:23: error: 'endl' was not declared in this scope; did you mean 'std::endl'?
+   15 |   cout << "Sssss!" << endl;
+      |                       ^~~~
+      |                       std::endl
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:599:5: note: 'std::endl' declared here
+  599 |     endl(basic_ostream<_CharT, _Traits>& __os)
+      |     ^~~~
+18:16:33 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+..\src\Cat.cpp: In member function 'void Cat::speak()':
+..\src\Cat.cpp:13:3: error: 'cout' was not declared in this scope; did you mean 'std::cout'?
+   13 |   cout << "Meouw!" << endl;
+      |   ^~~~
+      |   std::cout
+In file included from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:61:18: note: 'std::cout' declared here
+   61 |   extern ostream cout;  /// Linked to standard output
+      |                  ^~~~
+..\src\Cat.cpp:13:23: error: 'endl' was not declared in this scope; did you mean 'std::endl'?
+   13 |   cout << "Meouw!" << endl;
+      |                       ^~~~
+      |                       std::endl
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:599:5: note: 'std::endl' declared here
+  599 |     endl(basic_ostream<_CharT, _Traits>& __os)
+      |     ^~~~
+..\src\Cat.cpp:15:3: error: 'cout' was not declared in this scope; did you mean 'std::cout'?
+   15 |   cout << "Sssss!" << endl;
+      |   ^~~~
+      |   std::cout
+In file included from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:61:18: note: 'std::cout' declared here
+   61 |   extern ostream cout;  /// Linked to standard output
+      |                  ^~~~
+..\src\Cat.cpp:15:23: error: 'endl' was not declared in this scope; did you mean 'std::endl'?
+   15 |   cout << "Sssss!" << endl;
+      |                       ^~~~
+      |                       std::endl
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:599:5: note: 'std::endl' declared here
+  599 |     endl(basic_ostream<_CharT, _Traits>& __os)
+      |     ^~~~
+18:16:36 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+..\src\Cat.cpp: In member function 'void Cat::speak()':
+..\src\Cat.cpp:13:3: error: 'cout' was not declared in this scope; did you mean 'std::cout'?
+   13 |   cout << "Meouw!" << endl;
+      |   ^~~~
+      |   std::cout
+In file included from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:61:18: note: 'std::cout' declared here
+   61 |   extern ostream cout;  /// Linked to standard output
+      |                  ^~~~
+..\src\Cat.cpp:13:23: error: 'endl' was not declared in this scope; did you mean 'std::endl'?
+   13 |   cout << "Meouw!" << endl;
+      |                       ^~~~
+      |                       std::endl
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:599:5: note: 'std::endl' declared here
+  599 |     endl(basic_ostream<_CharT, _Traits>& __os)
+      |     ^~~~
+..\src\Cat.cpp:15:3: error: 'cout' was not declared in this scope; did you mean 'std::cout'?
+   15 |   cout << "Sssss!" << endl;
+      |   ^~~~
+      |   std::cout
+In file included from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:61:18: note: 'std::cout' declared here
+   61 |   extern ostream cout;  /// Linked to standard output
+      |                  ^~~~
+..\src\Cat.cpp:15:23: error: 'endl' was not declared in this scope; did you mean 'std::endl'?
+   15 |   cout << "Sssss!" << endl;
+      |                       ^~~~
+      |                       std::endl
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\Cat.cpp:8:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:599:5: note: 'std::endl' declared here
+  599 |     endl(basic_ostream<_CharT, _Traits>& __os)
+      |     ^~~~
+18:17:01 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o "Constructors and Destructors.exe" "src\\Cat.o" "src\\Constructors and Destructors.o" 
+18:18:31 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructors and Destructors.o" "..\\src\\Constructors and Destructors.cpp" 
+g++ -o "Constructors and Destructors.exe" "src\\Cat.o" "src\\Constructors and Destructors.o" 
+Info: Nothing to build for Constructors and Destructors
+Info: Nothing to build for Constructors and Destructors
+18:24:12 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructors and Destructors.o" "..\\src\\Constructors and Destructors.cpp" 
+g++ -o "Constructors and Destructors.exe" "src\\Cat.o" "src\\Constructors and Destructors.o" 
+18:25:52 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructors and Destructors.o" "..\\src\\Constructors and Destructors.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o "Constructors and Destructors.exe" "src\\Cat.o" "src\\Constructors and Destructors.o" 
+18:27:55 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructors and Destructors.o" "..\\src\\Constructors and Destructors.cpp" 
+g++ -o "Constructors and Destructors.exe" "src\\Cat.o" "src\\Constructors and Destructors.o" 
+18:32:25 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructors and Destructors.o" "..\\src\\Constructors and Destructors.cpp" 
+g++ -o "Constructors and Destructors.exe" "src\\Cat.o" "src\\Constructors and Destructors.o" 
+18:33:03 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructors and Destructors.o" "..\\src\\Constructors and Destructors.cpp" 
+..\src\Constructors and Destructors.cpp: In function 'int main()':
+..\src\Constructors and Destructors.cpp:21:2: error: no match for 'operator~' (operand type is 'Cat')
+   21 |  ~bob;
+      |  ^~~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\Constructors and Destructors.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:95:3: note: candidate: 'constexpr std::_Ios_Fmtflags std::operator~(std::_Ios_Fmtflags)'
+   95 |   operator~(_Ios_Fmtflags __a)
+      |   ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:95:27: note:   no known conversion for argument 1 from 'Cat' to 'std::_Ios_Fmtflags'
+   95 |   operator~(_Ios_Fmtflags __a)
+      |             ~~~~~~~~~~~~~~^~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:137:3: note: candidate: 'constexpr std::_Ios_Openmode std::operator~(std::_Ios_Openmode)'
+  137 |   operator~(_Ios_Openmode __a)
+      |   ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:137:27: note:   no known conversion for argument 1 from 'Cat' to 'std::_Ios_Openmode'
+  137 |   operator~(_Ios_Openmode __a)
+      |             ~~~~~~~~~~~~~~^~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:177:3: note: candidate: 'constexpr std::_Ios_Iostate std::operator~(std::_Ios_Iostate)'
+  177 |   operator~(_Ios_Iostate __a)
+      |   ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:177:26: note:   no known conversion for argument 1 from 'Cat' to 'std::_Ios_Iostate'
+  177 |   operator~(_Ios_Iostate __a)
+      |             ~~~~~~~~~~~~~^~~
+18:33:59 **** Incremental Build of configuration Debug for project Constructors and Destructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructors and Destructors.o" "..\\src\\Constructors and Destructors.cpp" 
+g++ -o "Constructors and Destructors.exe" "src\\Cat.o" "src\\Constructors and Destructors.o" 
+18:40:42 **** Rebuild of configuration Debug for project Getters and Setters ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Getters and Setters.o" "..\\src\\Getters and Setters.cpp" 
+g++ -o "Getters and Setters.exe" "src\\Getters and Setters.o" "src\\Person.o" 
+18:41:09 **** Incremental Build of configuration Debug for project Getters and Setters ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Getters and Setters.o" "..\\src\\Getters and Setters.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o "Getters and Setters.exe" "src\\Getters and Setters.o" "src\\Person.o" 
+18:41:26 **** Incremental Build of configuration Debug for project Getters and Setters ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Getters and Setters.o" "..\\src\\Getters and Setters.cpp" 
+g++ -o "Getters and Setters.exe" "src\\Getters and Setters.o" "src\\Person.o" 
+18:42:14 **** Incremental Build of configuration Debug for project Getters and Setters ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Getters and Setters.o" "..\\src\\Getters and Setters.cpp" 
+g++ -o "Getters and Setters.exe" "src\\Getters and Setters.o" "src\\Person.o" 
+18:46:42 **** Incremental Build of configuration Debug for project Getters and Setters ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Getters and Setters.o" "..\\src\\Getters and Setters.cpp" 
+g++ -o "Getters and Setters.exe" "src\\Getters and Setters.o" "src\\Person.o" 
+18:49:31 **** Incremental Build of configuration Debug for project Getters and Setters ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Getters and Setters.o" "..\\src\\Getters and Setters.cpp" 
+g++ -o "Getters and Setters.exe" "src\\Getters and Setters.o" "src\\Person.o" 
+18:49:47 **** Incremental Build of configuration Debug for project Getters and Setters ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Getters and Setters.o" "..\\src\\Getters and Setters.cpp" 
+g++ -o "Getters and Setters.exe" "src\\Getters and Setters.o" "src\\Person.o" 
+18:50:23 **** Incremental Build of configuration Debug for project Getters and Setters ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Getters and Setters.o" "..\\src\\Getters and Setters.cpp" 
+g++ -o "Getters and Setters.exe" "src\\Getters and Setters.o" "src\\Person.o" 
+18:55:00 **** Rebuild of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+g++ -o "String Streams.exe" "src\\String Streams.o" 
+18:55:05 **** Incremental Build of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+..\src\String Streams.cpp: In function 'int main()':
+..\src\String Streams.cpp:17:44: error: no match for 'operator+' (operand types are 'std::__cxx11::basic_string<char>' and 'int')
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^ ~~~
+      |                                |             |
+      |                                |             int
+      |                                std::__cxx11::basic_string<char>
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:67,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:423:5: note: candidate: 'template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)'
+  423 |     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:423:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'const std::reverse_iterator<_Iterator>' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:67,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:1219:5: note: candidate: 'template<class _Iterator> std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)'
+ 1219 |     operator+(typename move_iterator<_Iterator>::difference_type __n,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:1219:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'const std::move_iterator<_IteratorL>' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6020:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 6020 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6020:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:56,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1158:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 1158 |     operator+(const _CharT* __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1158:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'const _CharT*' and 'std::__cxx11::basic_string<char>'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:56,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1174:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 1174 |     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1174:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6057:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)'
+ 6057 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6057:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'const _CharT*' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6073:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)'
+ 6073 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6073:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   deduced conflicting types for parameter '_CharT' ('char' and 'int')
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6085:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 6085 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6085:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6091:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6091 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6091:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6097:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6097 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6097:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6109:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6109 |     operator+(const _CharT* __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6109:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'const _CharT*' and 'std::__cxx11::basic_string<char>'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6115:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6115 |     operator+(_CharT __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6115:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6121:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _CharT*)'
+ 6121 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6121:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'const _CharT*' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6127:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, _CharT)'
+ 6127 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6127:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   deduced conflicting types for parameter '_CharT' ('char' and 'int')
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:67,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:996:5: note: candidate: 'template<class _Iterator, class _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::operator+(typename __gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)'
+  996 |     operator+(typename __normal_iterator<_Iterator, _Container>::difference_type
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:996:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:46: note:   mismatched types 'const __gnu_cxx::__normal_iterator<_Iterator, _Container>' and 'int'
+   17 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+18:55:27 **** Incremental Build of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+..\src\String Streams.cpp: In function 'int main()':
+..\src\String Streams.cpp:17:55: error: no matching function for call to 'std::__cxx11::basic_string<char>::basic_string(int&)'
+   17 |  string info = "Name: " + name + "; age: " + (string) age;
+      |                                                       ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:625:9: note: candidate: 'template<class _InputIterator, class> std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(_InputIterator, _InputIterator, const _Alloc&)'
+  625 |         basic_string(_InputIterator __beg, _InputIterator __end,
+      |         ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:625:9: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:17:55: note:   candidate expects 3 arguments, 1 provided
+   17 |  string info = "Name: " + name + "; age: " + (string) age;
+      |                                                       ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:587:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'
+  587 |       basic_string(basic_string&& __str, const _Alloc& __a)
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:587:7: note:   candidate expects 2 arguments, 1 provided
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:583:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'
+  583 |       basic_string(const basic_string& __str, const _Alloc& __a)
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:583:7: note:   candidate expects 2 arguments, 1 provided
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:579:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(std::initializer_list<_Tp>, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'
+  579 |       basic_string(initializer_list<_CharT> __l, const _Alloc& __a = _Alloc())
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:579:45: note:   no known conversion for argument 1 from 'int' to 'std::initializer_list<char>'
+  579 |       basic_string(initializer_list<_CharT> __l, const _Alloc& __a = _Alloc())
+      |                    ~~~~~~~~~~~~~~~~~~~~~~~~~^~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:552:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'
+  552 |       basic_string(basic_string&& __str) noexcept
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:552:35: note:   no known conversion for argument 1 from 'int' to 'std::__cxx11::basic_string<char>&&'
+  552 |       basic_string(basic_string&& __str) noexcept
+      |                    ~~~~~~~~~~~~~~~^~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:540:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, _CharT, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type = unsigned int]'
+  540 |       basic_string(size_type __n, _CharT __c, const _Alloc& __a = _Alloc())
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:540:7: note:   candidate expects 3 arguments, 1 provided
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:525:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const _CharT*, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]' <near match>
+  525 |       basic_string(const _CharT* __s, const _Alloc& __a = _Alloc())
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:525:7: note:   conversion of argument 1 would be ill-formed:
+..\src\String Streams.cpp:17:55: error: invalid conversion from 'int' to 'const char*' [-fpermissive]
+   17 |  string info = "Name: " + name + "; age: " + (string) age;
+      |                                                       ^~~
+      |                                                       |
+      |                                                       int
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:510:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type = unsigned int]'
+  510 |       basic_string(const _CharT* __s, size_type __n,
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:510:7: note:   candidate expects 3 arguments, 1 provided
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:492:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type = unsigned int]'
+  492 |       basic_string(const basic_string& __str, size_type __pos,
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:492:7: note:   candidate expects 4 arguments, 1 provided
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:476:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type = unsigned int]'
+  476 |       basic_string(const basic_string& __str, size_type __pos,
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:476:7: note:   candidate expects 3 arguments, 1 provided
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:461:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>; std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::size_type = unsigned int]'
+  461 |       basic_string(const basic_string& __str, size_type __pos,
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:461:7: note:   candidate expects 3 arguments, 1 provided
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:448:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'
+  448 |       basic_string(const basic_string& __str)
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:448:40: note:   no known conversion for argument 1 from 'int' to 'const std::__cxx11::basic_string<char>&'
+  448 |       basic_string(const basic_string& __str)
+      |                    ~~~~~~~~~~~~~~~~~~~~^~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:440:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'
+  440 |       basic_string(const _Alloc& __a) _GLIBCXX_NOEXCEPT
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:440:34: note:   no known conversion for argument 1 from 'int' to 'const std::allocator<char>&'
+  440 |       basic_string(const _Alloc& __a) _GLIBCXX_NOEXCEPT
+      |                    ~~~~~~~~~~~~~~^~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:431:7: note: candidate: 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string() [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'
+  431 |       basic_string()
+      |       ^~~~~~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:431:7: note:   candidate expects 0 arguments, 1 provided
+18:56:01 **** Incremental Build of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+..\src\String Streams.cpp: In function 'int main()':
+..\src\String Streams.cpp:18:44: error: no match for 'operator+' (operand types are 'std::__cxx11::basic_string<char>' and 'int')
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^ ~~~
+      |                                |             |
+      |                                |             int
+      |                                std::__cxx11::basic_string<char>
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:67,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:423:5: note: candidate: 'template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)'
+  423 |     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:423:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const std::reverse_iterator<_Iterator>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:67,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:1219:5: note: candidate: 'template<class _Iterator> std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)'
+ 1219 |     operator+(typename move_iterator<_Iterator>::difference_type __n,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:1219:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const std::move_iterator<_IteratorL>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6020:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 6020 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6020:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:56,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1158:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 1158 |     operator+(const _CharT* __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1158:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const _CharT*' and 'std::__cxx11::basic_string<char>'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:56,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1174:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 1174 |     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1174:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6057:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)'
+ 6057 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6057:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const _CharT*' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6073:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)'
+ 6073 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6073:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   deduced conflicting types for parameter '_CharT' ('char' and 'int')
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6085:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 6085 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6085:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6091:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6091 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6091:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6097:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6097 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6097:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6109:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6109 |     operator+(const _CharT* __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6109:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const _CharT*' and 'std::__cxx11::basic_string<char>'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6115:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6115 |     operator+(_CharT __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6115:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6121:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _CharT*)'
+ 6121 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6121:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const _CharT*' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6127:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, _CharT)'
+ 6127 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6127:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   deduced conflicting types for parameter '_CharT' ('char' and 'int')
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:67,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:996:5: note: candidate: 'template<class _Iterator, class _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::operator+(typename __gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)'
+  996 |     operator+(typename __normal_iterator<_Iterator, _Container>::difference_type
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:996:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const __gnu_cxx::__normal_iterator<_Iterator, _Container>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+18:56:22 **** Incremental Build of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+..\src\String Streams.cpp: In function 'int main()':
+..\src\String Streams.cpp:16:6: warning: unused variable 'age' [-Wunused-variable]
+   16 |  int age = 32;
+      |      ^~~
+g++ -o "String Streams.exe" "src\\String Streams.o" 
+Info: Nothing to build for String Streams
+Info: Nothing to build for String Streams
+18:57:08 **** Incremental Build of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+..\src\String Streams.cpp: In function 'int main()':
+..\src\String Streams.cpp:18:44: error: no match for 'operator+' (operand types are 'std::__cxx11::basic_string<char>' and 'int')
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                ~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^ ~~~
+      |                                |             |
+      |                                |             int
+      |                                std::__cxx11::basic_string<char>
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:67,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:423:5: note: candidate: 'template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)'
+  423 |     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:423:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const std::reverse_iterator<_Iterator>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:67,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:1219:5: note: candidate: 'template<class _Iterator> std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)'
+ 1219 |     operator+(typename move_iterator<_Iterator>::difference_type __n,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:1219:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const std::move_iterator<_IteratorL>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6020:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 6020 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6020:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:56,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1158:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 1158 |     operator+(const _CharT* __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1158:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const _CharT*' and 'std::__cxx11::basic_string<char>'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:56,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1174:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 1174 |     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.tcc:1174:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6057:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)'
+ 6057 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6057:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const _CharT*' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6073:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)'
+ 6073 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6073:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   deduced conflicting types for parameter '_CharT' ('char' and 'int')
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6085:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)'
+ 6085 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6085:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6091:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6091 |     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6091:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6097:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6097 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6097:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6109:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6109 |     operator+(const _CharT* __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6109:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const _CharT*' and 'std::__cxx11::basic_string<char>'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6115:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)'
+ 6115 |     operator+(_CharT __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6115:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6121:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _CharT*)'
+ 6121 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6121:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const _CharT*' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6127:5: note: candidate: 'template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, _CharT)'
+ 6127 |     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:6127:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   deduced conflicting types for parameter '_CharT' ('char' and 'int')
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algobase.h:67,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\char_traits.h:39,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\String Streams.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:996:5: note: candidate: 'template<class _Iterator, class _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::operator+(typename __gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&)'
+  996 |     operator+(typename __normal_iterator<_Iterator, _Container>::difference_type
+      |     ^~~~~~~~
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_iterator.h:996:5: note:   template argument deduction/substitution failed:
+..\src\String Streams.cpp:18:46: note:   mismatched types 'const __gnu_cxx::__normal_iterator<_Iterator, _Container>' and 'int'
+   18 |  string info = "Name: " + name + "; age: " + age;
+      |                                              ^~~
+18:57:44 **** Incremental Build of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+..\src\String Streams.cpp: In function 'int main()':
+..\src\String Streams.cpp:22:10: error: 'info' was not declared in this scope
+   22 |  cout << info << endl;
+      |          ^~~~
+..\src\String Streams.cpp:16:6: warning: unused variable 'age' [-Wunused-variable]
+   16 |  int age = 32;
+      |      ^~~
+18:57:54 **** Incremental Build of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+..\src\String Streams.cpp: In function 'int main()':
+..\src\String Streams.cpp:16:6: warning: unused variable 'age' [-Wunused-variable]
+   16 |  int age = 32;
+      |      ^~~
+g++ -o "String Streams.exe" "src\\String Streams.o" 
+18:59:57 **** Incremental Build of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+g++ -o "String Streams.exe" "src\\String Streams.o" 
+19:00:33 **** Incremental Build of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+g++ -o "String Streams.exe" "src\\String Streams.o" 
+19:01:19 **** Incremental Build of configuration Debug for project String Streams ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\String Streams.o" "..\\src\\String Streams.cpp" 
+g++ -o "String Streams.exe" "src\\String Streams.o" 
+19:02:53 **** Rebuild of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Parameters and Overloading.o" "..\\src\\Constructor Parameters and Overloading.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" 
+19:03:00 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Parameters and Overloading.o" "..\\src\\Constructor Parameters and Overloading.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" 
+19:06:40 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" "src\\Person.o" 
+19:06:50 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" "src\\Person.o" 
+19:06:57 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" "src\\Person.o" 
+19:09:30 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" "src\\Person.o" 
+19:10:10 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Parameters and Overloading.o" "..\\src\\Constructor Parameters and Overloading.cpp" 
+..\src\Constructor Parameters and Overloading.cpp: In function 'int main()':
+..\src\Constructor Parameters and Overloading.cpp:14:2: error: 'Person' was not declared in this scope
+   14 |  Person person1;
+      |  ^~~~~~
+..\src\Constructor Parameters and Overloading.cpp:15:10: error: 'person1' was not declared in this scope
+   15 |  cout << person1.toString() << endl;
+      |          ^~~~~~~
+19:11:15 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Parameters and Overloading.o" "..\\src\\Constructor Parameters and Overloading.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" "src\\Person.o" 
+19:15:52 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Parameters and Overloading.o" "..\\src\\Constructor Parameters and Overloading.cpp" 
+In file included from ..\src\Constructor Parameters and Overloading.cpp:10:
+..\src\Person.h: In constructor 'Person::Person(std::string)':
+..\src\Person.h:20:49: error: expected ';' before '}' token
+   20 |  Person(string newName) {name = newName; age = 0}; // inline
+      |                                                 ^
+      |                                                 ;
+19:16:12 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Parameters and Overloading.o" "..\\src\\Constructor Parameters and Overloading.cpp" 
+In file included from ..\src\Constructor Parameters and Overloading.cpp:10:
+..\src\Person.h: In constructor 'Person::Person(std::string)':
+..\src\Person.h:20:49: error: expected ';' before '}' token
+   20 |  Person(string newName) {name = newName, age = 0}; // inline
+      |                                                 ^
+      |                                                 ;
+19:16:28 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Parameters and Overloading.o" "..\\src\\Constructor Parameters and Overloading.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" "src\\Person.o" 
+19:21:07 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Parameters and Overloading.o" "..\\src\\Constructor Parameters and Overloading.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+..\src\Person.cpp:16:49: error: return type specification for constructor invalid
+   16 | string Person::Person(string newName, int newAge) {
+      |                                                 ^
+19:21:39 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" "src\\Person.o" 
+19:26:36 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Parameters and Overloading.o" "..\\src\\Constructor Parameters and Overloading.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" "src\\Person.o" 
+19:34:08 **** Incremental Build of configuration Debug for project Constructor Parameters and Overloading ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Constructor Parameters and Overloading.o" "..\\src\\Constructor Parameters and Overloading.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o "Constructor Parameters and Overloading.exe" "src\\Constructor Parameters and Overloading.o" "src\\Person.o" 
+20:33:27 **** Rebuild of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -o This.exe "src\\This.o" 
+Info: Nothing to build for This
+20:37:49 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+..\src\Person.cpp: In member function 'std::string Person::toString()':
+..\src\Person.cpp:22:1: warning: no return statement in function returning non-void [-Wreturn-type]
+   22 | }
+      | ^
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+20:39:17 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+..\src\Person.cpp: In member function 'std::string Person::toString()':
+..\src\Person.cpp:23:1: warning: no return statement in function returning non-void [-Wreturn-type]
+   23 | }
+      | ^
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+20:40:25 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+20:43:25 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+20:47:02 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+..\src\This.cpp: In function 'int main()':
+..\src\This.cpp:21:10: error: invalid use of 'this' in non-member function
+   21 |  cout << this << endl;
+      |          ^~~~
+20:47:34 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+20:48:11 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+20:50:24 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+20:51:37 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+20:54:31 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+21:02:56 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+21:04:19 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+21:06:44 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+21:07:41 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+21:11:10 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+21:11:52 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+In file included from ..\src\This.cpp:10:
+..\src\Person.h: In constructor 'Person::Person()':
+..\src\Person.h:20:47: error: expected '{' at end of input
+   20 |  Person(): name("unnamed"), age(0), happy(true);
+      |                                               ^
+21:12:48 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+In file included from ..\src\This.cpp:10:
+..\src\Person.h:20:9: error: expected ';' at end of member declaration
+   20 |  Person() name("unnamed"), age(0), happy(true);
+      |         ^
+      |          ;
+..\src\Person.h:20:16: error: expected identifier before string constant
+   20 |  Person() name("unnamed"), age(0), happy(true);
+      |                ^~~~~~~~~
+..\src\Person.h:20:16: error: expected ',' or '...' before string constant
+..\src\Person.h:20:26: error: 'int Person::name(int)' conflicts with a previous declaration
+   20 |  Person() name("unnamed"), age(0), happy(true);
+      |                          ^
+..\src\Person.h:16:9: note: previous declaration 'std::string Person::name'
+   16 |  string name;
+      |         ^~~~
+..\src\Person.h:20:32: error: expected identifier before numeric constant
+   20 |  Person() name("unnamed"), age(0), happy(true);
+      |                                ^
+..\src\Person.h:20:32: error: expected ',' or '...' before numeric constant
+..\src\Person.h:20:34: error: 'int Person::age(int)' conflicts with a previous declaration
+   20 |  Person() name("unnamed"), age(0), happy(true);
+      |                                  ^
+..\src\Person.h:17:6: note: previous declaration 'int Person::age'
+   17 |  int age;
+      |      ^~~
+..\src\Person.h:20:42: error: expected identifier before 'true'
+   20 |  Person() name("unnamed"), age(0), happy(true);
+      |                                          ^~~~
+..\src\Person.h:20:42: error: expected ',' or '...' before 'true'
+..\src\Person.h:20:46: error: 'int Person::happy(int)' conflicts with a previous declaration
+   20 |  Person() name("unnamed"), age(0), happy(true);
+      |                                              ^
+..\src\Person.h:18:7: note: previous declaration 'bool Person::happy'
+   18 |  bool happy;
+      |       ^~~~~
+21:13:43 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+In file included from ..\src\This.cpp:10:
+..\src\Person.h: In constructor 'Person::Person()':
+..\src\Person.h:20:44: error: expected '{' at end of input
+   20 |  Person(): name("unnamed"), age(0), happy(0);
+      |                                            ^
+21:14:08 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+21:14:25 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+21:17:02 **** Incremental Build of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
