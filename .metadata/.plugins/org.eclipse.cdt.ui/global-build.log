@@ -967,3 +967,108 @@ g++ -o switch.exe "src\\switch.o"
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\switch.o" "..\\src\\switch.cpp" 
 g++ -o switch.exe "src\\switch.o" 
+00:39:29 **** Rebuild of configuration Debug for project arrays-exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrays-exercise.o" "..\\src\\arrays-exercise.cpp" 
+g++ -o arrays-exercise.exe "src\\arrays-exercise.o" 
+Info: Nothing to build for Outputting Text
+Info: Nothing to build for Outputting Text
+15:27:37 **** Rebuild of configuration Debug for project functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\functions.o" "..\\src\\functions.cpp" 
+g++ -o functions.exe "src\\functions.o" 
+15:27:42 **** Incremental Build of configuration Debug for project functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\functions.o" "..\\src\\functions.cpp" 
+g++ -o functions.exe "src\\functions.o" 
+15:28:04 **** Incremental Build of configuration Debug for project functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\functions.o" "..\\src\\functions.cpp" 
+g++ -o functions.exe "src\\functions.o" 
+15:30:51 **** Incremental Build of configuration Debug for project functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\functions.o" "..\\src\\functions.cpp" 
+g++ -o functions.exe "src\\functions.o" 
+15:33:08 **** Incremental Build of configuration Debug for project functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\functions.o" "..\\src\\functions.cpp" 
+g++ -o functions.exe "src\\functions.o" 
+15:34:44 **** Rebuild of configuration Debug for project returningValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\returningValues.o" "..\\src\\returningValues.cpp" 
+g++ -o returningValues.exe "src\\returningValues.o" 
+15:34:55 **** Incremental Build of configuration Debug for project returningValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\returningValues.o" "..\\src\\returningValues.cpp" 
+g++ -o returningValues.exe "src\\returningValues.o" 
+15:38:06 **** Incremental Build of configuration Debug for project returningValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\returningValues.o" "..\\src\\returningValues.cpp" 
+..\src\returningValues.cpp:27:1: error: expected declaration before '}' token
+   27 | }
+      | ^
+..\src\returningValues.cpp: In function 'int main()':
+..\src\returningValues.cpp:48:1: error: expected '}' at end of input
+   48 | }
+      | ^
+..\src\returningValues.cpp:29:12: note: to match this '{'
+   29 | int main() {
+      |            ^
+15:38:40 **** Incremental Build of configuration Debug for project returningValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\returningValues.o" "..\\src\\returningValues.cpp" 
+..\src\returningValues.cpp: In function 'int main()':
+..\src\returningValues.cpp:47:1: error: expected '}' at end of input
+   47 | }
+      | ^
+..\src\returningValues.cpp:28:12: note: to match this '{'
+   28 | int main() {
+      |            ^
+15:39:23 **** Incremental Build of configuration Debug for project returningValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\returningValues.o" "..\\src\\returningValues.cpp" 
+g++ -o returningValues.exe "src\\returningValues.o" 
+15:41:09 **** Incremental Build of configuration Debug for project returningValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\returningValues.o" "..\\src\\returningValues.cpp" 
+g++ -o returningValues.exe "src\\returningValues.o" 
+15:43:10 **** Rebuild of configuration Debug for project passingValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\passingValues.o" "..\\src\\passingValues.cpp" 
+g++ -o passingValues.exe "src\\passingValues.o" 
+15:43:16 **** Incremental Build of configuration Debug for project passingValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\passingValues.o" "..\\src\\passingValues.cpp" 
+g++ -o passingValues.exe "src\\passingValues.o" 
+15:45:56 **** Incremental Build of configuration Debug for project passingValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\passingValues.o" "..\\src\\passingValues.cpp" 
+g++ -o passingValues.exe "src\\passingValues.o" 
+15:46:39 **** Incremental Build of configuration Debug for project passingValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\passingValues.o" "..\\src\\passingValues.cpp" 
+g++ -o passingValues.exe "src\\passingValues.o" 
+15:48:45 **** Incremental Build of configuration Debug for project passingValues ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\passingValues.o" "..\\src\\passingValues.cpp" 
+g++ -o passingValues.exe "src\\passingValues.o" 
+15:52:46 **** Rebuild of configuration Debug for project prototypesAndIncludes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prototypesAndIncludes.o" "..\\src\\prototypesAndIncludes.cpp" 
+g++ -o prototypesAndIncludes.exe "src\\prototypesAndIncludes.o" 
+15:52:50 **** Incremental Build of configuration Debug for project prototypesAndIncludes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prototypesAndIncludes.o" "..\\src\\prototypesAndIncludes.cpp" 
+g++ -o prototypesAndIncludes.exe "src\\prototypesAndIncludes.o" 
+15:54:07 **** Incremental Build of configuration Debug for project prototypesAndIncludes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prototypesAndIncludes.o" "..\\src\\prototypesAndIncludes.cpp" 
+g++ -o prototypesAndIncludes.exe "src\\prototypesAndIncludes.o" 
+15:59:00 **** Incremental Build of configuration Debug for project prototypesAndIncludes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prototypesAndIncludes.o" "..\\src\\prototypesAndIncludes.cpp" 
+g++ -o prototypesAndIncludes.exe "src\\prototypesAndIncludes.o" 
+16:05:07 **** Incremental Build of configuration Debug for project prototypesAndIncludes ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\prototypesAndIncludes.o" "..\\src\\prototypesAndIncludes.cpp" 
+g++ -o prototypesAndIncludes.exe "src\\prototypesAndIncludes.o" 
