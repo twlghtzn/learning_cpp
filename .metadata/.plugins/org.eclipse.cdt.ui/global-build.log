@@ -2430,3 +2430,965 @@ Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
 g++ -o This.exe "src\\Person.o" "src\\This.o" 
+19:34:20 **** Rebuild of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+19:34:32 **** Incremental Build of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+19:37:17 **** Incremental Build of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+19:39:20 **** Rebuild of configuration Debug for project This ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Person.o" "..\\src\\Person.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\This.o" "..\\src\\This.cpp" 
+g++ -o This.exe "src\\Person.o" "src\\This.o" 
+19:42:18 **** Incremental Build of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+19:42:47 **** Incremental Build of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+19:47:13 **** Incremental Build of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+Info: Nothing to build for Pointers
+19:48:17 **** Incremental Build of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+19:51:12 **** Incremental Build of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+19:51:57 **** Incremental Build of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+19:53:24 **** Rebuild of configuration Debug for project Pointers2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers2.o" "..\\src\\Pointers2.cpp" 
+g++ -o Pointers2.exe "src\\Pointers2.o" 
+19:53:28 **** Incremental Build of configuration Debug for project Pointers2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers2.o" "..\\src\\Pointers2.cpp" 
+g++ -o Pointers2.exe "src\\Pointers2.o" 
+19:56:48 **** Incremental Build of configuration Debug for project Pointers ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers.o" "..\\src\\Pointers.cpp" 
+g++ -o Pointers.exe "src\\Pointers.o" 
+20:02:39 **** Rebuild of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:02:44 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:03:03 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:03:57 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:04:11 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:06:57 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:07:59 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:08:16 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:09:06 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:11:12 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:11:43 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:23:33 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:25:29 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:26:07 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:26:59 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:27:37 **** Incremental Build of configuration Debug for project Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arithmetic.o" "..\\src\\Arithmetic.cpp" 
+g++ -o Arithmetic.exe "src\\Arithmetic.o" 
+20:30:09 **** Rebuild of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:30:14 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:30:30 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:32:32 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+..\src\Pointers and Arrays.cpp: In function 'int main()':
+..\src\Pointers and Arrays.cpp:18:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   18 |  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:33:29 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+..\src\Pointers and Arrays.cpp: In function 'int main()':
+..\src\Pointers and Arrays.cpp:18:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   18 |  for (int i = 0; i < sizeof(texts) / (unsigned)sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:33:39 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+..\src\Pointers and Arrays.cpp: In function 'int main()':
+..\src\Pointers and Arrays.cpp:18:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   18 |  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:35:26 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+..\src\Pointers and Arrays.cpp: In function 'int main()':
+..\src\Pointers and Arrays.cpp:18:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   18 |  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:38:43 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+..\src\Pointers and Arrays.cpp: In function 'int main()':
+..\src\Pointers and Arrays.cpp:18:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   18 |  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\Pointers and Arrays.cpp:22:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   22 |  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:39:08 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+..\src\Pointers and Arrays.cpp: In function 'int main()':
+..\src\Pointers and Arrays.cpp:18:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   18 |  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\Pointers and Arrays.cpp:24:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   24 |  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:39:52 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+..\src\Pointers and Arrays.cpp: In function 'int main()':
+..\src\Pointers and Arrays.cpp:18:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   18 |  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:40:11 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:40:35 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:41:36 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:41:59 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:42:40 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:43:50 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:45:32 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:50:49 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:51:04 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+20:51:27 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+14:50:24 **** Rebuild of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+14:52:30 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+14:52:58 **** Incremental Build of configuration Debug for project Pointers and Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointers and Arrays.o" "..\\src\\Pointers and Arrays.cpp" 
+g++ -o "Pointers and Arrays.exe" "src\\Pointers and Arrays.o" 
+14:58:30 **** Rebuild of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+14:58:37 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:00:57 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:01:19 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:01:40 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:02:11 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:02:54 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:05:46 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:06:39 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:07:15 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:07:41 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:08:13 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:10:38 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:10:54 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:11:21 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:13:26 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+..\src\Pointer Arithmetic.cpp: In function 'int main()':
+..\src\Pointer Arithmetic.cpp:47:20: error: invalid conversion from 'int' to 'std::string*' {aka 'std::__cxx11::basic_string<char>*'} [-fpermissive]
+   47 |  pTexts = NSTRINGS / 2;
+      |           ~~~~~~~~~^~~
+      |                    |
+      |                    int
+15:13:44 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:14:42 **** Incremental Build of configuration Debug for project Pointer Arithmetic ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pointer Arithmetic.o" "..\\src\\Pointer Arithmetic.cpp" 
+g++ -o "Pointer Arithmetic.exe" "src\\Pointer Arithmetic.o" 
+15:19:59 **** Rebuild of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:20:03 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:21:06 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) {
+      |                  ~~^~~~~~~~~~~~~~
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:21:44 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) {
+      |                  ~~^~~~~~~~~~~~~~
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:22:46 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) { // sizeof returns 6!
+      |                  ~~^~~~~~~~~~~~~~
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:24:02 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) { // sizeof returns 6!, last char is null string terminator
+      |                  ~~^~~~~~~~~~~~~~
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:26:27 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) { // sizeof returns 6!, last char is null string terminator
+      |                  ~~^~~~~~~~~~~~~~
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:29:55 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) { // sizeof returns 6!, last char is null string terminator
+      |                  ~~^~~~~~~~~~~~~~
+..\src\Char Arrays.cpp:36:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   36 |  for (int i = 0; i < sizeof(text2) - 1; i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:30:14 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) { // sizeof returns 6!, last char is null string terminator
+      |                  ~~^~~~~~~~~~~~~~
+..\src\Char Arrays.cpp:38:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   38 |  for (int i = 0; i < sizeof(text2) - 1; i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:30:41 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) { // sizeof returns 6!, last char is null string terminator
+      |                  ~~^~~~~~~~~~~~~~
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:33:51 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) { // sizeof returns 6!, last char is null string terminator
+      |                  ~~^~~~~~~~~~~~~~
+..\src\Char Arrays.cpp:46:6: error: redeclaration of 'int k'
+   46 |  int k = 0;
+      |      ^
+..\src\Char Arrays.cpp:20:6: note: 'int k' previously declared here
+   20 |  int k = 0;
+      |      ^
+15:34:03 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) { // sizeof returns 6!, last char is null string terminator
+      |                  ~~^~~~~~~~~~~~~~
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:34:19 **** Incremental Build of configuration Debug for project Char Arrays ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Char Arrays.o" "..\\src\\Char Arrays.cpp" 
+..\src\Char Arrays.cpp: In function 'int main()':
+..\src\Char Arrays.cpp:16:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   16 |  for (int i = 0; i < sizeof(text); i++) { // sizeof returns 6!, last char is null string terminator
+      |                  ~~^~~~~~~~~~~~~~
+g++ -o "Char Arrays.exe" "src\\Char Arrays.o" 
+15:37:22 **** Rebuild of configuration Debug for project Reversing a String ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a String.o" "..\\src\\Reversing a String.cpp" 
+g++ -o "Reversing a String.exe" "src\\Reversing a String.o" 
+15:40:29 **** Incremental Build of configuration Debug for project Reversing a String ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a String.o" "..\\src\\Reversing a String.cpp" 
+..\src\Reversing a String.cpp: In function 'int main()':
+..\src\Reversing a String.cpp:18:8: warning: unused variable 'pStart' [-Wunused-variable]
+   18 |  char *pStart = text;
+      |        ^~~~~~
+g++ -o "Reversing a String.exe" "src\\Reversing a String.o" 
+15:43:52 **** Incremental Build of configuration Debug for project Reversing a String ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a String.o" "..\\src\\Reversing a String.cpp" 
+g++ -o "Reversing a String.exe" "src\\Reversing a String.o" 
+15:44:13 **** Incremental Build of configuration Debug for project Reversing a String ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a String.o" "..\\src\\Reversing a String.cpp" 
+g++ -o "Reversing a String.exe" "src\\Reversing a String.o" 
+15:50:47 **** Incremental Build of configuration Debug for project Reversing a String ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a String.o" "..\\src\\Reversing a String.cpp" 
+g++ -o "Reversing a String.exe" "src\\Reversing a String.o" 
+15:52:43 **** Incremental Build of configuration Debug for project Reversing a String ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reversing a String.o" "..\\src\\Reversing a String.cpp" 
+g++ -o "Reversing a String.exe" "src\\Reversing a String.o" 
+15:54:38 **** Rebuild of configuration Debug for project References ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\References.o" "..\\src\\References.cpp" 
+g++ -o References.exe "src\\References.o" 
+15:56:23 **** Incremental Build of configuration Debug for project References ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\References.o" "..\\src\\References.cpp" 
+g++ -o References.exe "src\\References.o" 
+15:56:45 **** Incremental Build of configuration Debug for project References ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\References.o" "..\\src\\References.cpp" 
+g++ -o References.exe "src\\References.o" 
+15:57:48 **** Incremental Build of configuration Debug for project References ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\References.o" "..\\src\\References.cpp" 
+..\src\References.cpp: In function 'int main()':
+..\src\References.cpp:21:6: warning: unused variable 'value3' [-Wunused-variable]
+   21 |  int value3 = 8;
+      |      ^~~~~~
+g++ -o References.exe "src\\References.o" 
+15:59:51 **** Incremental Build of configuration Debug for project References ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\References.o" "..\\src\\References.cpp" 
+g++ -o References.exe "src\\References.o" 
+16:00:08 **** Incremental Build of configuration Debug for project References ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\References.o" "..\\src\\References.cpp" 
+g++ -o References.exe "src\\References.o" 
+16:02:00 **** Incremental Build of configuration Debug for project References ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\References.o" "..\\src\\References.cpp" 
+g++ -o References.exe "src\\References.o" 
+16:03:09 **** Incremental Build of configuration Debug for project References ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\References.o" "..\\src\\References.cpp" 
+g++ -o References.exe "src\\References.o" 
+16:06:22 **** Incremental Build of configuration Debug for project References ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\References.o" "..\\src\\References.cpp" 
+..\src\References.cpp: In function 'int main()':
+..\src\References.cpp:36:19: error: cannot convert 'double' to 'double*' in initialization
+   36 |  double *pValue = value;
+      |                   ^~~~~
+      |                   |
+      |                   double
+16:06:36 **** Incremental Build of configuration Debug for project References ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\References.o" "..\\src\\References.cpp" 
+g++ -o References.exe "src\\References.o" 
+16:11:55 **** Rebuild of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+g++ -o Const.exe "src\\Const.o" 
+16:12:03 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+..\src\Const.cpp: In function 'int main()':
+..\src\Const.cpp:24:8: error: assignment of read-only variable 'value'
+   24 |  value = 10;
+      |  ~~~~~~^~~~
+16:13:33 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+g++ -o Const.exe "src\\Const.o" 
+16:15:07 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+g++ -o Const.exe "src\\Const.o" 
+16:15:46 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+..\src\Const.cpp: In member function 'void Animal::speak() const':
+..\src\Const.cpp:18:70: error: passing 'const string' {aka 'const std::__cxx11::basic_string<char>'} as 'this' argument discards qualifiers [-fpermissive]
+   18 |  void speak() const { cout << "My name is: " << name << endl; name = "asdf"; } // doesn't change anything
+      |                                                                      ^~~~~~
+In file included from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\string:55,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\locale_classes.h:40,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\ios_base.h:41,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ios:42,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\ostream:38,
+                 from c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream:39,
+                 from ..\src\Const.cpp:9:
+c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\basic_string.h:704:7: note:   in call to 'std::__cxx11::basic_string<_CharT, _Traits, _Alloc>& std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::operator=(const _CharT*) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]'
+  704 |       operator=(const _CharT* __s)
+      |       ^~~~~~~~
+16:16:03 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+g++ -o Const.exe "src\\Const.o" 
+16:18:04 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+g++ -o Const.exe "src\\Const.o" 
+16:18:25 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+g++ -o Const.exe "src\\Const.o" 
+16:19:20 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+g++ -o Const.exe "src\\Const.o" 
+16:19:43 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+g++ -o Const.exe "src\\Const.o" 
+16:21:07 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+..\src\Const.cpp: In function 'int main()':
+..\src\Const.cpp:38:10: error: assignment of read-only location '* pValue'
+   38 |  *pValue = 12; // change value
+      |  ~~~~~~~~^~~~
+16:21:24 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+g++ -o Const.exe "src\\Const.o" 
+16:23:08 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+..\src\Const.cpp: In function 'int main()':
+..\src\Const.cpp:37:9: error: assignment of read-only variable 'pValue'
+   37 |  pValue = &number; // change where the pointer points
+      |  ~~~~~~~^~~~~~~~~
+16:25:10 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+..\src\Const.cpp: In function 'int main()':
+..\src\Const.cpp:37:9: error: assignment of read-only variable 'pValue'
+   37 |  pValue = &number; // reassign pointer, error with: int * const pValue = &value; constant pointer
+      |  ~~~~~~~^~~~~~~~~
+..\src\Const.cpp:38:10: error: assignment of read-only location '*(const int*)pValue'
+   38 |  *pValue = 12; // change value, error with: const int *pValue = &value; constant value
+      |  ~~~~~~~~^~~~
+16:25:46 **** Incremental Build of configuration Debug for project Const ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Const.o" "..\\src\\Const.cpp" 
+..\src\Const.cpp: In function 'int main()':
+..\src\Const.cpp:36:6: warning: unused variable 'number' [-Wunused-variable]
+   36 |  int number = 11;
+      |      ^~~~~~
+g++ -o Const.exe "src\\Const.o" 
+17:02:07 **** Rebuild of configuration Debug for project Copy Constructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Copy Constructors.o" "..\\src\\Copy Constructors.cpp" 
+g++ -o "Copy Constructors.exe" "src\\Copy Constructors.o" 
+17:02:11 **** Incremental Build of configuration Debug for project Copy Constructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Copy Constructors.o" "..\\src\\Copy Constructors.cpp" 
+g++ -o "Copy Constructors.exe" "src\\Copy Constructors.o" 
+17:02:56 **** Incremental Build of configuration Debug for project Copy Constructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Copy Constructors.o" "..\\src\\Copy Constructors.cpp" 
+g++ -o "Copy Constructors.exe" "src\\Copy Constructors.o" 
+17:03:39 **** Incremental Build of configuration Debug for project Copy Constructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Copy Constructors.o" "..\\src\\Copy Constructors.cpp" 
+g++ -o "Copy Constructors.exe" "src\\Copy Constructors.o" 
+17:05:44 **** Incremental Build of configuration Debug for project Copy Constructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Copy Constructors.o" "..\\src\\Copy Constructors.cpp" 
+g++ -o "Copy Constructors.exe" "src\\Copy Constructors.o" 
+17:06:18 **** Incremental Build of configuration Debug for project Copy Constructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Copy Constructors.o" "..\\src\\Copy Constructors.cpp" 
+g++ -o "Copy Constructors.exe" "src\\Copy Constructors.o" 
+17:07:41 **** Incremental Build of configuration Debug for project Copy Constructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Copy Constructors.o" "..\\src\\Copy Constructors.cpp" 
+g++ -o "Copy Constructors.exe" "src\\Copy Constructors.o" 
+17:08:33 **** Incremental Build of configuration Debug for project Copy Constructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Copy Constructors.o" "..\\src\\Copy Constructors.cpp" 
+g++ -o "Copy Constructors.exe" "src\\Copy Constructors.o" 
+17:12:18 **** Incremental Build of configuration Debug for project Copy Constructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Copy Constructors.o" "..\\src\\Copy Constructors.cpp" 
+g++ -o "Copy Constructors.exe" "src\\Copy Constructors.o" 
+17:14:03 **** Incremental Build of configuration Debug for project Copy Constructors ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Copy Constructors.o" "..\\src\\Copy Constructors.cpp" 
+g++ -o "Copy Constructors.exe" "src\\Copy Constructors.o" 
+17:22:49 **** Rebuild of configuration Debug for project New Operator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\New Operator.o" "..\\src\\New Operator.cpp" 
+g++ -o "New Operator.exe" "src\\New Operator.o" 
+17:22:54 **** Incremental Build of configuration Debug for project New Operator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\New Operator.o" "..\\src\\New Operator.cpp" 
+g++ -o "New Operator.exe" "src\\New Operator.o" 
+17:26:47 **** Incremental Build of configuration Debug for project New Operator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\New Operator.o" "..\\src\\New Operator.cpp" 
+g++ -o "New Operator.exe" "src\\New Operator.o" 
+17:28:02 **** Incremental Build of configuration Debug for project New Operator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\New Operator.o" "..\\src\\New Operator.cpp" 
+g++ -o "New Operator.exe" "src\\New Operator.o" 
+17:30:24 **** Incremental Build of configuration Debug for project New Operator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\New Operator.o" "..\\src\\New Operator.cpp" 
+g++ -o "New Operator.exe" "src\\New Operator.o" 
+17:30:48 **** Incremental Build of configuration Debug for project New Operator ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\New Operator.o" "..\\src\\New Operator.cpp" 
+g++ -o "New Operator.exe" "src\\New Operator.o" 
+17:35:00 **** Rebuild of configuration Debug for project Returning Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Returning Objects.o" "..\\src\\Returning Objects.cpp" 
+g++ -o "Returning Objects.exe" "src\\Returning Objects.o" 
+17:35:04 **** Incremental Build of configuration Debug for project Returning Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Returning Objects.o" "..\\src\\Returning Objects.cpp" 
+g++ -o "Returning Objects.exe" "src\\Returning Objects.o" 
+17:36:30 **** Incremental Build of configuration Debug for project Returning Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Returning Objects.o" "..\\src\\Returning Objects.cpp" 
+g++ -o "Returning Objects.exe" "src\\Returning Objects.o" 
+17:38:00 **** Incremental Build of configuration Debug for project Returning Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Returning Objects.o" "..\\src\\Returning Objects.cpp" 
+g++ -o "Returning Objects.exe" "src\\Returning Objects.o" 
+17:38:22 **** Incremental Build of configuration Debug for project Returning Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Returning Objects.o" "..\\src\\Returning Objects.cpp" 
+g++ -o "Returning Objects.exe" "src\\Returning Objects.o" 
+17:40:54 **** Incremental Build of configuration Debug for project Returning Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Returning Objects.o" "..\\src\\Returning Objects.cpp" 
+..\src\Returning Objects.cpp: In function 'Animal& createAnimal()':
+..\src\Returning Objects.cpp:51:9: warning: reference to local variable 'a' returned [-Wreturn-local-addr]
+   51 |  return a;
+      |         ^
+..\src\Returning Objects.cpp:49:9: note: declared here
+   49 |  Animal a;
+      |         ^
+g++ -o "Returning Objects.exe" "src\\Returning Objects.o" 
+17:41:17 **** Incremental Build of configuration Debug for project Returning Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Returning Objects.o" "..\\src\\Returning Objects.cpp" 
+..\src\Returning Objects.cpp: In function 'Animal& createAnimal()':
+..\src\Returning Objects.cpp:51:9: warning: reference to local variable 'a' returned [-Wreturn-local-addr]
+   51 |  return a;
+      |         ^
+..\src\Returning Objects.cpp:49:9: note: declared here
+   49 |  Animal a;
+      |         ^
+g++ -o "Returning Objects.exe" "src\\Returning Objects.o" 
+17:44:57 **** Incremental Build of configuration Debug for project Returning Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Returning Objects.o" "..\\src\\Returning Objects.cpp" 
+..\src\Returning Objects.cpp: In function 'Animal* createAnimal()':
+..\src\Returning Objects.cpp:50:19: error: void value not ignored as it ought to be
+   50 |  *pAnimal->setName("Bertie");
+      |   ~~~~~~~~~~~~~~~~^~~~~~~~~~
+17:45:16 **** Incremental Build of configuration Debug for project Returning Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Returning Objects.o" "..\\src\\Returning Objects.cpp" 
+g++ -o "Returning Objects.exe" "src\\Returning Objects.o" 
+17:51:06 **** Incremental Build of configuration Debug for project Returning Objects ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Returning Objects.o" "..\\src\\Returning Objects.cpp" 
+g++ -o "Returning Objects.exe" "src\\Returning Objects.o" 
+17:56:08 **** Rebuild of configuration Debug for project Allocating Memory ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory.o" "..\\src\\Allocating Memory.cpp" 
+g++ -o "Allocating Memory.exe" "src\\Allocating Memory.o" 
+17:56:12 **** Incremental Build of configuration Debug for project Allocating Memory ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory.o" "..\\src\\Allocating Memory.cpp" 
+g++ -o "Allocating Memory.exe" "src\\Allocating Memory.o" 
+17:57:18 **** Incremental Build of configuration Debug for project Allocating Memory ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory.o" "..\\src\\Allocating Memory.cpp" 
+g++ -o "Allocating Memory.exe" "src\\Allocating Memory.o" 
+17:59:38 **** Incremental Build of configuration Debug for project Allocating Memory ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory.o" "..\\src\\Allocating Memory.cpp" 
+g++ -o "Allocating Memory.exe" "src\\Allocating Memory.o" 
+18:00:31 **** Incremental Build of configuration Debug for project Allocating Memory ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory.o" "..\\src\\Allocating Memory.cpp" 
+g++ -o "Allocating Memory.exe" "src\\Allocating Memory.o" 
+18:01:46 **** Incremental Build of configuration Debug for project Allocating Memory ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory.o" "..\\src\\Allocating Memory.cpp" 
+g++ -o "Allocating Memory.exe" "src\\Allocating Memory.o" 
+18:04:17 **** Incremental Build of configuration Debug for project Allocating Memory ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory.o" "..\\src\\Allocating Memory.cpp" 
+g++ -o "Allocating Memory.exe" "src\\Allocating Memory.o" 
+18:41:46 **** Rebuild of configuration Debug for project Allocating Memory Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory Exercise.o" "..\\src\\Allocating Memory Exercise.cpp" 
+g++ -o "Allocating Memory Exercise.exe" "src\\Allocating Memory Exercise.o" 
+18:41:51 **** Incremental Build of configuration Debug for project Allocating Memory Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory Exercise.o" "..\\src\\Allocating Memory Exercise.cpp" 
+..\src\Allocating Memory Exercise.cpp: In function 'int main()':
+..\src\Allocating Memory Exercise.cpp:14:8: warning: unused variable 'pText' [-Wunused-variable]
+   14 |  char *pText = new char[26];
+      |        ^~~~~
+g++ -o "Allocating Memory Exercise.exe" "src\\Allocating Memory Exercise.o" 
+18:43:45 **** Incremental Build of configuration Debug for project Allocating Memory Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory Exercise.o" "..\\src\\Allocating Memory Exercise.cpp" 
+g++ -o "Allocating Memory Exercise.exe" "src\\Allocating Memory Exercise.o" 
+18:44:02 **** Incremental Build of configuration Debug for project Allocating Memory Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory Exercise.o" "..\\src\\Allocating Memory Exercise.cpp" 
+g++ -o "Allocating Memory Exercise.exe" "src\\Allocating Memory Exercise.o" 
+18:47:07 **** Incremental Build of configuration Debug for project Allocating Memory Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory Exercise.o" "..\\src\\Allocating Memory Exercise.cpp" 
+g++ -o "Allocating Memory Exercise.exe" "src\\Allocating Memory Exercise.o" 
+18:49:16 **** Rebuild of configuration Debug for project Arrays and Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays and Functions.o" "..\\src\\Arrays and Functions.cpp" 
+g++ -o "Arrays and Functions.exe" "src\\Arrays and Functions.o" 
+18:49:22 **** Incremental Build of configuration Debug for project Arrays and Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays and Functions.o" "..\\src\\Arrays and Functions.cpp" 
+g++ -o "Arrays and Functions.exe" "src\\Arrays and Functions.o" 
+18:50:15 **** Incremental Build of configuration Debug for project Arrays and Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays and Functions.o" "..\\src\\Arrays and Functions.cpp" 
+..\src\Arrays and Functions.cpp: In function 'void show1(std::string*)':
+..\src\Arrays and Functions.cpp:14:22: warning: 'sizeof' on array function parameter 'texts' will return size of 'std::string*' {aka 'std::__cxx11::basic_string<char>*'} [-Wsizeof-array-argument]
+   14 |  cout << sizeof(texts) << endl;
+      |                      ^
+..\src\Arrays and Functions.cpp:12:19: note: declared here
+   12 | void show1(string texts[]) {
+      |            ~~~~~~~^~~~~~~
+g++ -o "Arrays and Functions.exe" "src\\Arrays and Functions.o" 
+18:52:19 **** Incremental Build of configuration Debug for project Arrays and Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays and Functions.o" "..\\src\\Arrays and Functions.cpp" 
+..\src\Arrays and Functions.cpp: In function 'void show1(int, std::string*)':
+..\src\Arrays and Functions.cpp:14:22: warning: 'sizeof' on array function parameter 'texts' will return size of 'std::string*' {aka 'std::__cxx11::basic_string<char>*'} [-Wsizeof-array-argument]
+   14 |  cout << sizeof(texts) << endl; // size of the pointer
+      |                      ^
+..\src\Arrays and Functions.cpp:12:40: note: declared here
+   12 | void show1(const int nElements, string texts[]) {
+      |                                 ~~~~~~~^~~~~~~
+g++ -o "Arrays and Functions.exe" "src\\Arrays and Functions.o" 
+18:52:45 **** Incremental Build of configuration Debug for project Arrays and Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays and Functions.o" "..\\src\\Arrays and Functions.cpp" 
+g++ -o "Arrays and Functions.exe" "src\\Arrays and Functions.o" 
+18:53:29 **** Incremental Build of configuration Debug for project Arrays and Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays and Functions.o" "..\\src\\Arrays and Functions.cpp" 
+g++ -o "Arrays and Functions.exe" "src\\Arrays and Functions.o" 
+18:56:12 **** Incremental Build of configuration Debug for project Arrays and Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays and Functions.o" "..\\src\\Arrays and Functions.cpp" 
+..\src\Arrays and Functions.cpp: In function 'void show3(std::string (&)[3])':
+..\src\Arrays and Functions.cpp:34:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   34 |  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+g++ -o "Arrays and Functions.exe" "src\\Arrays and Functions.o" 
+18:57:19 **** Incremental Build of configuration Debug for project Arrays and Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays and Functions.o" "..\\src\\Arrays and Functions.cpp" 
+..\src\Arrays and Functions.cpp: In function 'void show3(std::string (&)[3])':
+..\src\Arrays and Functions.cpp:34:20: warning: comparison of integer expressions of different signedness: 'int' and 'unsigned int' [-Wsign-compare]
+   34 |  for (int i = 0; i < sizeof(texts) / sizeof(string); i++) {
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+g++ -o "Arrays and Functions.exe" "src\\Arrays and Functions.o" 
+18:57:57 **** Incremental Build of configuration Debug for project Arrays and Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays and Functions.o" "..\\src\\Arrays and Functions.cpp" 
+g++ -o "Arrays and Functions.exe" "src\\Arrays and Functions.o" 
+19:05:50 **** Incremental Build of configuration Debug for project Allocating Memory Exercise ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Allocating Memory Exercise.o" "..\\src\\Allocating Memory Exercise.cpp" 
+g++ -o "Allocating Memory Exercise.exe" "src\\Allocating Memory Exercise.o" 
+19:07:26 **** Incremental Build of configuration Debug for project Arrays and Functions ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Arrays and Functions.o" "..\\src\\Arrays and Functions.cpp" 
+g++ -o "Arrays and Functions.exe" "src\\Arrays and Functions.o" 
+19:14:15 **** Rebuild of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o Namespaces.exe "src\\Cat.o" "src\\Namespaces.o" 
+19:16:49 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+..\src\Namespaces.cpp:11:10: fatal error: Cat.h: No such file or directory
+   11 | #include <Cat.h>
+      |          ^~~~~~~
+compilation terminated.
+19:26:09 **** Rebuild of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o Namespaces.exe "src\\Cat.o" "src\\Namespaces.o" 
+19:26:13 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+..\src\Namespaces.cpp:11:10: fatal error: Cat.h: No such file or directory
+   11 | #include <Cat.h>
+      |          ^~~~~~~
+compilation terminated.
+19:26:42 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+g++ -o Namespaces.exe "src\\Cat.o" "src\\Namespaces.o" 
+19:32:55 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Animals.o" "..\\src\\Animals.cpp" 
+g++ -o Namespaces.exe "src\\Animals.o" "src\\Cat.o" "src\\Namespaces.o" 
+19:34:41 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+..\src\Namespaces.cpp: In function 'int main()':
+..\src\Namespaces.cpp:16:2: error: 'Cat' was not declared in this scope; did you mean 'cats::Cat'?
+   16 |  Cat cat;
+      |  ^~~
+      |  cats::Cat
+In file included from ..\src\Namespaces.cpp:11:
+..\src\Cat.h:13:7: note: 'cats::Cat' declared here
+   13 | class Cat {
+      |       ^~~
+..\src\Namespaces.cpp:17:2: error: 'cat' was not declared in this scope; did you mean 'cats'?
+   17 |  cat.speak();
+      |  ^~~
+      |  cats
+19:35:02 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+g++ -o Namespaces.exe "src\\Animals.o" "src\\Cat.o" "src\\Namespaces.o" 
+19:35:10 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+..\src\Namespaces.cpp:12:17: error: 'orsi' is not a namespace-name
+   12 | using namespace orsi;
+      |                 ^~~~
+..\src\Namespaces.cpp: In function 'int main()':
+..\src\Namespaces.cpp:16:2: error: 'Cat' was not declared in this scope; did you mean 'cats::Cat'?
+   16 |  Cat cat;
+      |  ^~~
+      |  cats::Cat
+In file included from ..\src\Namespaces.cpp:11:
+..\src\Cat.h:13:7: note: 'cats::Cat' declared here
+   13 | class Cat {
+      |       ^~~
+..\src\Namespaces.cpp:17:2: error: 'cat' was not declared in this scope; did you mean 'cats'?
+   17 |  cat.speak();
+      |  ^~~
+      |  cats
+19:36:00 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+g++ -o Namespaces.exe "src\\Animals.o" "src\\Cat.o" "src\\Namespaces.o" 
+19:36:08 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+..\src\Namespaces.cpp:14:17: error: 'orsi' is not a namespace-name
+   14 | using namespace orsi;
+      |                 ^~~~
+..\src\Namespaces.cpp: In function 'int main()':
+..\src\Namespaces.cpp:18:2: error: 'Cat' was not declared in this scope; did you mean 'cats::Cat'?
+   18 |  Cat cat;
+      |  ^~~
+      |  cats::Cat
+In file included from ..\src\Namespaces.cpp:11:
+..\src\Cat.h:13:7: note: 'cats::Cat' declared here
+   13 | class Cat {
+      |       ^~~
+..\src\Namespaces.cpp:19:2: error: 'cat' was not declared in this scope; did you mean 'cats'?
+   19 |  cat.speak();
+      |  ^~~
+      |  cats
+19:37:25 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+..\src\Namespaces.cpp:11:10: fatal error: Animals.h: No such file or directory
+   11 | #include "Animals.h"
+      |          ^~~~~~~~~~~
+compilation terminated.
+19:37:44 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+g++ -o Namespaces.exe "src\\Animals.o" "src\\Cat.o" "src\\Namespaces.o" 
+20:31:47 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+g++ -o Namespaces.exe "src\\Animals.o" "src\\Cat.o" "src\\Namespaces.o" 
+20:32:44 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+g++ -o Namespaces.exe "src\\Animals.o" "src\\Cat.o" "src\\Namespaces.o" 
+20:35:44 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Animals.o" "..\\src\\Animals.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Cat.o" "..\\src\\Cat.cpp" 
+g++ -o Namespaces.exe "src\\Animals.o" "src\\Cat.o" "src\\Namespaces.o" 
+20:36:36 **** Incremental Build of configuration Debug for project Namespaces ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Namespaces.o" "..\\src\\Namespaces.cpp" 
+g++ -o Namespaces.exe "src\\Animals.o" "src\\Cat.o" "src\\Namespaces.o" 
